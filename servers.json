@@ -1,0 +1,20 @@
+[
+    {
+      "color": "47FF47",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "AKTOBE",
+      "online": 1,
+      "ip": "15.39.108.50",
+      "port": 2293
+    },
+    {
+      "color": "FFFF00",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "MIKOTEST",
+      "online": 0,
+      "ip": "5.39.108.50",
+      "port": 2293
+    }
+  ]
